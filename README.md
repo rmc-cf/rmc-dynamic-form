@@ -1,5 +1,18 @@
-# Vue 3 + Vite
+Vue 3
+Element Plus
+Vite
+A dynamic form generator component that renders forms based on JSON configuration using Vue 3's h() function and Element Plus UI components.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Features
+🚀 Dynamic form rendering from JSON configuration
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+🧩 Supports multiple form field types (input, select, datepicker, etc.)
+
+⚡ Optimized performance with Vue 3's composition API
+
+🎨 Fully customizable with Element Plus components
+
+📝 Form validation support
+
+🔄 Reactive data binding out of the box
+![image](https://github.com/user-attachments/assets/babdfa3a-7543-4724-9d64-3a981e2ad618)
